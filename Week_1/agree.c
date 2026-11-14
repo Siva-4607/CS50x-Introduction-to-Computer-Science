@@ -7,7 +7,7 @@ int main()
 
     char c = get_char("Do you agree? ");
 
-    // Using conditional statement for comparing character using the relational operators (==)
+    // Comparing the character using the relational operator (==) and logical operator (|| OR)
 
     if (c == 'y')
     {

@@ -1,4 +1,4 @@
-#include<cs50.h>
+#include<cs50.h> // This is a CS50's header for simple codes to get input from the user
 #include<stdio.h>
 
 int main()

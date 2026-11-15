@@ -20,3 +20,10 @@ int main()
         printf("meow \n");
     }
 }
+/*
+The entire program runs only if the user input is a positive number else it reminds the user
+enter a positive number and ends the program
+
+But in order to continue asking the user until they give a correct input, 
+we use while loop or do while loop to perform the program
+*/

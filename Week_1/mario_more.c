@@ -35,5 +35,6 @@ int main()
         pyramid(h);
     }
     while (h < 1 || h > 8);
+    
     // make right aligned pyramid and then make left aligned pyramid
 }
